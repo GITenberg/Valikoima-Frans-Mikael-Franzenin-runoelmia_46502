@@ -1,9 +1,13 @@
 _repo: Valikoima-Frans-Mikael-Franzenin-runoelmia_46502
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Tamminen, Em.
     gutenberg_agent_id: '38596'
     url: http://www.gutenberg.org/2009/agents/38596
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Franzén, Frans Mikael
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '43818'
     url: http://www.gutenberg.org/2009/agents/43818
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46502#Valikoima-Frans-Mikael-Franzenin-runoelmia
 gutenberg_issued: '2014-08-04'
 gutenberg_type: Text
 identifiers:
